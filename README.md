@@ -16,7 +16,7 @@
 
 
 ### 架构设计拓扑图
-![framework topo]("https://github.com/TinyDurk/react-web-native-hydrate/topoImgs/framework-topo.png")
+![framework topo]("https://github.com/TinyDurk/react-web-native-hydrate/blob/master/topoImgs/framework-topo.png")
 
 
 ### 项目基础依赖库
