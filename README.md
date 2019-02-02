@@ -39,9 +39,9 @@ framework topo:
 
 
 ### 启动命令
-run in ios platform: ```yarn start:ios```
-run in android platform: ```yarn start:android```
-run in web browser platform: ```yarn start:web```
+- run in ios platform: ```yarn start:ios```
+- run in android platform: ```yarn start:android```
+- run in web browser platform: ```yarn start:web```
 
 
 ### 单元测试命令
